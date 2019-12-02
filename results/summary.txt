@@ -1,0 +1,8 @@
+Results
+
+	Wilcoxon rank sum test
+
+data:  percentInterleukin17 by treatment
+W = 6, p-value = 0.004662
+alternative hypothesis: true location shift is not equal to 0
+
